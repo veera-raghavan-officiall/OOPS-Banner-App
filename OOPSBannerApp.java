@@ -11,15 +11,15 @@ public class OOPSBannerApp {
     public static void main(String[] args) {
         
         // Line 1: Top caps of O, O, P and S
-        System.out.println(string.join("   ****    "," ","   ****    "," ","**********  "," ","**********"));
-        System.out.println(string.join(" **     ** "," "," **     ** "," ","*********** "," ","**********"));
-        System.out.println(string.join("**       **"," ","**       **"," ","**        **"," ","**        "));
-        System.out.println(string.join("**       **"," ","**       **"," ","**        **"," ","**        "));
-        System.out.println(string.join("**       **"," ","**       **"," ","**       ** "," ","**********"));
-        System.out.println(string.join("**       **"," ","**       **"," ","**********  "," ","**********"));
-        System.out.println(string.join("**       **"," ","**       **"," ","***         "," ","        **"));
-        System.out.println(string.join(" **     ** "," "," **     ** "," ","***         "," ","        **"));
-        System.out.println(string.join("   ****    "," ","   ****    "," ","***         "," ","**********"));
+        System.out.println(String.join("   ****    "," ","   ****    "," ","**********  "," ","**********"));
+        System.out.println(String.join(" **     ** "," "," **     ** "," ","*********** "," ","**********"));
+        System.out.println(String.join("**       **"," ","**       **"," ","**        **"," ","**        "));
+        System.out.println(String.join("**       **"," ","**       **"," ","**        **"," ","**        "));
+        System.out.println(String.join("**       **"," ","**       **"," ","**       ** "," ","**********"));
+        System.out.println(String.join("**       **"," ","**       **"," ","**********  "," ","**********"));
+        System.out.println(String.join("**       **"," ","**       **"," ","***         "," ","        **"));
+        System.out.println(String.join(" **     ** "," "," **     ** "," ","***         "," ","        **"));
+        System.out.println(String.join("   ****    "," ","   ****    "," ","***         "," ","**********"));
 
     }
 }
